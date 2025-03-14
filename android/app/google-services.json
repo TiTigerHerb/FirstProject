@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "657536040523",
+    "project_id": "simple-blog-bvqxfn",
+    "storage_bucket": "simple-blog-bvqxfn.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:657536040523:android:ef2bec5c3308738a2f57ce",
+        "android_client_info": {
+          "package_name": "com.k2.simpleblog"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0XRpczR32znR_h_INo2rZR38u7L34h4s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
